@@ -7,7 +7,7 @@ import icon from "../assets/tick.png";
 import cta from "../assets/cta.png";
 import SearchHospital from "../components/SearchHospital/SearchHospital";
 import BookingModal from "../components/BookingModal/BookingModal";
-import AutohideSnackbar from "../components/AutoHideSnackbar/AutoHideSnackbar";
+import AutohideSnackbar from "../components/AutohideSnackbar/AutohideSnackbar";
 import NavBar from "../components/NavBar/NavBar";
 
 export default function Search() {
